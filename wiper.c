@@ -14,7 +14,7 @@ int main()
         scanf("%d",&wipersignal);
         if(wipersignal==1)
         {
-            printf("pot: ");
+            printf("rain intensity ");
             scanf("%d",&pot);
             if(pot>100&&pot<250)
             {
